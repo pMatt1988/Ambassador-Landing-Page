@@ -1,0 +1,13 @@
+.hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0)), url("../img/hero-image.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 80vh;
+  padding-top: 7vh;
+  padding-bottom: 30vh; }
+  .hero h1 {
+    color: coral;
+    font-size: 4rem; }
+  .hero p {
+    color: white;
+    font-size: 1.3rem; }
