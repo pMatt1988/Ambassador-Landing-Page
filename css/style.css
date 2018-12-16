@@ -11,3 +11,15 @@
   .hero p {
     color: white;
     font-size: 1.3rem; }
+
+section .content {
+  padding-top: 7vh;
+  padding-bottom: 7vh;
+  text-align: center; }
+  section .content h1 {
+    color: coral;
+    font-size: 3.5rem;
+    padding: 8px; }
+
+.grey {
+  background-color: #e5e5e5; }
