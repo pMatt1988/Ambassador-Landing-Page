@@ -1,35 +1,23 @@
 .hero {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0)), url("../img/hero-image.jpg");
+  background: rgba(255, 255, 255, 0.5) url("../img/crates-stored.jpg");
   background-size: cover;
   background-position: center;
 
-  height: 80vh;
-  padding-top: 7vh;
-  padding-bottom: 30vh;
+
+  .container {
+    height: 100vh;
+  }
 
   h1 {
-    color: coral;
-    font-size: 4rem;
+    color: white;
   }
+
   p {
     color: white;
-    font-size: 1.3rem;
   }
-}
 
-section {
-  .content {
-    padding-top: 7vh;
-    padding-bottom: 7vh;
-    text-align: center;
-    h1 {
-      color: coral;
-      font-size: 3.5rem;
-      padding: 8px;
-    }
-
+  .hero-text {
+    margin-top:15vh;
+    margin-left: 0px;
   }
-}
-.grey {
-  background-color: #e5e5e5;
 }
