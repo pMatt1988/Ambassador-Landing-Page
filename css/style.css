@@ -1,13 +1,33 @@
 .hero {
-  background: rgba(255, 255, 255, 0.5) url("../img/crates-stored.jpg");
+  background: linear-gradient(rgba(0, 0, 50, 0.5), rgba(0, 0, 0, 0)), url("../img/crates-stored.jpg");
   background-size: cover;
-  background-position: center; }
+  background-position: center;
+  color: white; }
   .hero .container {
     height: 100vh; }
-  .hero h1 {
-    color: white; }
-  .hero p {
-    color: white; }
-  .hero .hero-text {
-    margin-top: 15vh;
-    margin-left: 0px; }
+    .hero .container .hero-text {
+      flex: 1;
+      margin-top: 17vh;
+      align-self: start; }
+      .hero .container .hero-text h1 {
+        font-size: 3.7rem; }
+      .hero .container .hero-text p {
+        font-size: 1.3rem;
+        line-height: 1.7rem;
+        padding-right: 1.5rem; }
+    .hero .container .hero-form {
+      flex: 1;
+      align-self: flex-end;
+      background: #1b1e21;
+      padding: 1rem;
+      text-align: center;
+      padding-bottom: 0; }
+      .hero .container .hero-form form {
+        margin: 3vh;
+        padding: 2vh;
+        background: #343a40;
+        margin-bottom: 0; }
+
+@media (min-width: 768px) {
+  .hero .container {
+    display: flex; } }
