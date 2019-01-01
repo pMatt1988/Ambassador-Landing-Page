@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18ce8c55-6d7b-40c2-a2eb-ed8f72f3d511" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/img/crates-stored.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/crates-stored.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,7 +71,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="19" />
-          <entry key="html" value="2900" />
+          <entry key="html" value="2927" />
           <entry key="scss" value="1071" />
           <entry key="svg" value="100" />
         </counts>
@@ -78,7 +79,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="19" />
-          <entry key="HTML" value="2900" />
+          <entry key="HTML" value="2927" />
           <entry key="SCSS" value="1071" />
           <entry key="SVG" value="100" />
         </counts>
@@ -87,6 +88,7 @@
         <counts>
           <entry key="css" value="5" />
           <entry key="html" value="2" />
+          <entry key="jpg" value="2" />
           <entry key="scss" value="2" />
           <entry key="svg" value="1" />
         </counts>
@@ -95,6 +97,7 @@
         <counts>
           <entry key="CSS" value="5" />
           <entry key="HTML" value="2" />
+          <entry key="Image" value="2" />
           <entry key="SCSS" value="2" />
           <entry key="SVG" value="1" />
         </counts>
@@ -130,9 +133,14 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+              <caret line="21" column="106" selection-start-line="21" selection-start-column="106" selection-end-line="21" selection-end-column="106" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/crates-stored.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -168,9 +176,9 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
-    <option name="y" value="7" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2" />
+    <option name="y" value="82" />
     <option name="width" value="1768" />
     <option name="height" value="993" />
   </component>
@@ -260,18 +268,18 @@
       <workItem from="1544947331869" duration="6120000" />
       <workItem from="1546218939378" duration="5795000" />
       <workItem from="1546232485761" duration="6163000" />
-      <workItem from="1546276636351" duration="9365000" />
+      <workItem from="1546276636351" duration="11259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27443000" />
+    <option name="totallyTimeSpent" value="29337000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="6" width="1414" height="794" extended-state="0" />
+    <frame x="-7" y="-7" width="1429" height="808" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49342105" visible="true" weight="0.22082718" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49342105" visible="true" weight="0.2184076" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5065789" side_tool="true" weight="0.49232456" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -284,7 +292,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3570348" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.34962964" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -337,10 +345,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/crates-stored.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <caret line="21" column="106" selection-start-line="21" selection-start-column="106" selection-end-line="21" selection-end-column="106" />
         </state>
       </provider>
     </entry>
