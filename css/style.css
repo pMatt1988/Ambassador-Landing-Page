@@ -1,33 +1,30 @@
 .hero {
-  background: linear-gradient(rgba(0, 0, 50, 0.5), rgba(0, 0, 0, 0)), url("../img/crates-stored.jpg");
+  background: linear-gradient(rgba(0, 0, 20, 0.5), rgba(0, 0, 0, 0.5)), url("../img/crates-stored.jpg");
   background-size: cover;
   background-position: center;
-  color: white; }
+  color: white;
+  height: 100vh; }
   .hero .container {
-    height: 100vh; }
-    .hero .container .hero-text {
-      flex: 1;
-      margin-top: 17vh;
-      align-self: start; }
-      .hero .container .hero-text h1 {
-        font-size: 3.7rem; }
-      .hero .container .hero-text p {
-        font-size: 1.3rem;
-        line-height: 1.7rem;
-        padding-right: 1.5rem; }
-    .hero .container .hero-form {
-      flex: 1;
-      align-self: flex-end;
-      background: #1b1e21;
-      padding: 1rem;
-      text-align: center;
-      padding-bottom: 0; }
-      .hero .container .hero-form form {
-        margin: 3vh;
-        padding: 2vh;
-        background: #343a40;
-        margin-bottom: 0; }
+    height: 100%; }
+  .hero .logo {
+    position: relative; }
+  .hero h1 {
+    font-size: 2.5rem; }
+  .hero .hero-form {
+    background-color: rgba(50, 50, 50, 0.95); }
+  .hero .hero-logo-container {
+    width: 100%;
+    background-color: rgba(50, 50, 50, 0.5); }
 
+@media (max-width: 767px) {
+  .hero-logo-container {
+    text-align: center; } }
 @media (min-width: 768px) {
-  .hero .container {
-    display: flex; } }
+  .hero-logo-container {
+    position: absolute;
+    padding: 5px; }
+
+  .call-us-btn {
+    margin-left: auto; } }
+.path {
+  fill: white; }
