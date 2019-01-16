@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="148.15mm"
@@ -18,29 +17,7 @@
    sodipodi:docname="Ambassador Logo.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <defs
-     id="defs18">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4535">
-      <stop
-         style="stop-color:#ff0000;stop-opacity:1;"
-         offset="0"
-         id="stop4531" />
-      <stop
-         style="stop-color:#ff0000;stop-opacity:0;"
-         offset="1"
-         id="stop4533" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4535"
-       id="linearGradient4537"
-       x1="32.069978"
-       y1="38.466262"
-       x2="180.21598"
-       y2="38.466262"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs18" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -54,9 +31,9 @@
      inkscape:window-height="963"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="1.7124013"
-     inkscape:cx="190.53842"
-     inkscape:cy="46.572572"
+     inkscape:zoom="3.4248025"
+     inkscape:cx="219.68489"
+     inkscape:cy="27.704789"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -72,41 +49,28 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="translate(-32.07 -26.727)"
-     id="g12"
-     style="fill:#ff0000;fill-opacity:1;">
-    <text
-       x="31.524275"
-       y="44.090725"
+  <text
+     id="text6"
+     xml:space="preserve"
+     style="font-size:25.39999962px;line-height:1.25;font-family:'Kunstler Script';letter-spacing:0px;word-spacing:0px;fill:#170000;fill-opacity:1;stroke-width:0.26458001;"
+     word-spacing="0px"
+     letter-spacing="0px"
+     font-size="25.4px"
+     y="17.363726"
+     x="-0.54572517"><tspan
+       style="font-size:25.39999962px;fill:#170000;fill-opacity:1;stroke-width:0.26458001;"
+       id="tspan4"
        font-size="25.4px"
-       letter-spacing="0px"
-       word-spacing="0px"
-       style="line-height:1.25;fill:#ff0000;fill-opacity:1"
-       xml:space="preserve"
-       id="text6"
-       font-family="'Kunstler Script'"
-       stroke-width=".26458"
-       fill="#000000"><tspan
-         x="31.524275"
-         y="44.090725"
-         font-size="25.4px"
-         id="tspan4"
-         stroke-width=".26458"
-         style="fill:#ff0000;fill-opacity:1">Ambassador Crating</tspan></text>
-    <path
-       d="m45.964 32.212 21.921 0.18973"
-       id="path8"
-       stroke-width=".24483px"
-       stroke="#000"
-       fill="none"
-       style="fill:#ff0000;fill-opacity:1" />
-    <path
-       d="m48.656 35.945h14.458"
-       id="path10"
-       stroke-width=".26458px"
-       stroke="#000"
-       fill="none"
-       style="fill:#ff0000;fill-opacity:1" />
-  </g>
+       y="17.363726"
+       x="-0.54572517">Ambassador Crating</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.24483px"
+     id="path8"
+     d="M 13.894,5.485 35.815,5.67473" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#170000;fill-opacity:1;stroke:#000000;stroke-width:0.26458001px"
+     id="path10"
+     d="M 16.586,9.218 H 31.044" />
 </svg>
